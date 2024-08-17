@@ -1,7 +1,5 @@
 # 👋 Hola mundo, soy Ivan!
 
-[![GitHub followers](https://img.shields.io/github/followers/IvanEFibiger?style=social)](https://github.com/IvanEFibiger?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/IvanEFibiger?style=social)](https://github.com/IvanEFibiger?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ivan-fibiger/)
 
 
@@ -22,7 +20,7 @@ Soy **Técnico Universitario en Tecnologías de Programación** con una pasión 
 
 ## 🧑‍💻 Proyectos Destacados
 
-### [🔗 Dashboard de Gestión](https://github.com/IvanEFibiger/DashboardProyectoInformatico1)
+### [🔗 Dashboard de Gestión](https://github.com/IvanEFibiger/DashboardProyectoInformatico/)
 Proyecto de aplicación web para gestión comercial. Backend en Flask, BD desarrollada en MariaDB y Frontend utilizando HTML, CSS, Bootstrap y JS. En el mismo se cuenta con login de usuario, alta, baja y modificación de clientes, productos y servicios y ordenes de compra y facturación, control de stock y estadísticas de ventas.
 
 ### [🔗 Proyectos de Big Data & Machine Learning](https://github.com/IvanEFibiger/BDyML)
