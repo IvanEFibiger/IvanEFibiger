@@ -1,8 +1,9 @@
 # 👋 Hola mundo, soy Ivan!
 
-![GitHub followers](https://img.shields.io/github/followers/IvanEFibiger?style=social)
-![GitHub stars](https://img.shields.io/github/stars/IvanEFibiger?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ivan-fibiger/)
+[![GitHub followers](https://img.shields.io/github/followers/IvanEFibiger?style=social)](https://github.com/IvanEFibiger?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/IvanEFibiger?style=social)](https://github.com/IvanEFibiger?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ivan-fibiger/)
+
 
 
 Soy **Técnico Universitario en Tecnologías de Programación** con una pasión por crear soluciones tecnológicas que marquen la diferencia. Aquí encontrarás algunos de mis proyectos, contribuciones y lo que estoy aprendiendo actualmente.
