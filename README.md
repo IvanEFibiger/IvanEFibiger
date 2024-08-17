@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Ivan]
+# 👋 Hola mundo, soy Ivan!
 
 ![GitHub followers](https://img.shields.io/github/followers/IvanEFibiger?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/IvanEFibiger?style=social)
