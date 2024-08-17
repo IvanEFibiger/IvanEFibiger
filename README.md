@@ -22,17 +22,17 @@ Soy **Técnico Universitario en Tecnologías de Programación** con una pasión 
 ## 🧑‍💻 Proyectos Destacados
 
 ### [🔗 Dashboard de Gestión](https://github.com/IvanEFibiger/DashboardProyectoInformatico1)
-Proyecto de aplicación web para gestión comercial. Backend en Flask, BD desarrollada en MariaDB y Frontend utilizando HTML, CSS, Bootstrap y JS. En el mismo se cuenta con login de usuario, alta, baja y modificación de clientes, productos y servicios y ordenes de compra y facturación.
+Proyecto de aplicación web para gestión comercial. Backend en Flask, BD desarrollada en MariaDB y Frontend utilizando HTML, CSS, Bootstrap y JS. En el mismo se cuenta con login de usuario, alta, baja y modificación de clientes, productos y servicios y ordenes de compra y facturación, control de stock y estadísticas de ventas.
 
 ### [🔗 Proyectos de Big Data & Machine Learning](https://github.com/IvanEFibiger/BDyML)
-Proyectos universitarios realizados en Python, con librerias como Numpy, Pandas, Seaborn y scikit-learn, entre otras. Analisis exploratorio de Datos, clustering, distintos algoritmos de Machine Learning. 
+Proyectos universitarios realizados en Python, con librerías como Numpy, Pandas, Seaborn y scikit-learn, entre otras. Análisis exploratorio de Datos, Clustering, distintos algoritmos de Machine Learning.
 
 ### [🔗 Web tipo blog](https://github.com/IvanEFibiger/web-empresarial-django/)
 Web sencilla realizada en Django, HTML, CSS y Bootstrap.
 
 ## 🌱 Actualmente aprendiendo
 
-Actualmente, estoy profundizando en Machine Learning y análisis  de datos, utilizando el poder de python para este tipo de tareas. Además me interesa seguir capacitandome en el rol de backend.
+Actualmente, estoy profundizando en Machine Learning y análisis de datos, utilizando el poder de python para este tipo de tareas. Además, me interesa seguir capacitándome en el rol de backend.
 
 ## 📫 Conectemos
 
