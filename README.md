@@ -26,7 +26,7 @@ Proyecto de aplicación web para gestión comercial. Backend en Flask, BD desarr
 ### [🔗 Proyectos de Big Data & Machine Learning](https://github.com/IvanEFibiger/BDyML)
 Proyectos universitarios realizados en Python, con librerías como Numpy, Pandas, Seaborn y scikit-learn, entre otras. Análisis exploratorio de Datos, Clustering, distintos algoritmos de Machine Learning.
 
-### [🔗 Newspaper-Periodico digital]([https://github.com/IvanEFibiger/web-empresarial-django/](https://github.com/IvanEFibiger/Newspaper))
+### [🔗 Newspaper-Periodico digital](https://github.com/IvanEFibiger/Newspaper)
 Periodico digital. Plataforma web donde los usuarios pueden acceder a artículos de noticias, dejando comentarios y participando activamente. El proyecto está diseñado con diferentes roles de usuarios, permitiendo una gestión organizada del contenido y el acceso. Backend Django.
 
 ## 🌱 Actualmente aprendiendo
