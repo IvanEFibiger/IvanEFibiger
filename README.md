@@ -29,9 +29,12 @@ Proyectos universitarios realizados en Python, con librerías como Numpy, Pandas
 ### [🔗 Newspaper-Periodico digital](https://github.com/IvanEFibiger/Newspaper)
 Periodico digital. Plataforma web donde los usuarios pueden acceder a artículos de noticias, dejando comentarios y participando activamente. El proyecto está diseñado con diferentes roles de usuarios, permitiendo una gestión organizada del contenido y el acceso. Backend Django.
 
+### [🔗 Api Recetas de Cocina](https://github.com/IvanEFibiger/API_COCINA)
+API RESTful desarrollada en Flask que permite gestionar recetas, incluyendo su creación, actualización, eliminación y búsqueda.
+
 ## 🌱 Actualmente aprendiendo
 
-Actualmente, estoy profundizando en Machine Learning y análisis de datos, utilizando el poder de python para este tipo de tareas. Además, me interesa seguir capacitándome en el rol de backend.
+Actualmente sigo capacitándome en el rol de backend, perfeccionando mis skills en Python y sus frameworks.
 
 ## 📫 Conectemos
 
