@@ -1,8 +1,6 @@
-# <img src=<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-shield-shaded" viewBox="0 0 16 16">
-  <path fill-rule="evenodd" d="M8 14.933a1 1 0 0 0 .1-.025q.114-.034.294-.118c.24-.113.547-.29.893-.533a10.7 10.7 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.8 11.8 0 0 1-2.517 2.453 7 7 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7 7 0 0 1-1.048-.625 11.8 11.8 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 63 63 0 0 1 5.072.56"/>
-</svg>/> Iván Fibiger — Programador orientado a Ciberseguridad
+# Iván Fibiger — Programador orientado a Ciberseguridad
 
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/person-badge.svg" width="20" style="vertical-align:middle;fill:#00ff88;"/> Sobre mí
+## Sobre mí
 Soy Técnico Universitario en Tecnologías de Programación con base en desarrollo backend y actualmente enfocado en ciberseguridad.  
 Mi objetivo es integrar la programación con la seguridad informática para identificar, explotar y mitigar vulnerabilidades, siguiendo metodologías profesionales de pruebas de penetración y análisis de seguridad.
 
@@ -11,40 +9,57 @@ Busco aplicar mis habilidades en entornos donde la seguridad y la calidad del so
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/tools.svg" width="20" style="vertical-align:middle;fill:#00ff88;"/> Tecnologías y herramientas
-- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/code-slash.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> **Lenguajes**: Python, JavaScript, C#, Java  
-- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/window.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> **Frameworks**: Django, Flask, Bootstrap  
-- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/database.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> **Bases de datos**: MySQL, MariaDB  
-- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/shield-shaded.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> **Ciberseguridad**: Nmap, Nessus, Metasploit, Burp Suite, Docker  
-- <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/git.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> **Otros**: Git, GitHub, VirtualBox  
+## Tecnologías y herramientas
+
+<!-- Badges minimalistas (flat-square, tonos neutros) -->
+![Python](https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-333?style=flat-square&logo=django&logoColor=0a4b3e)
+![Flask](https://img.shields.io/badge/Flask-333?style=flat-square&logo=flask&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=1572b6)
+![MySQL](https://img.shields.io/badge/MySQL-333?style=flat-square&logo=mysql&logoColor=3e6e93)
+![Docker](https://img.shields.io/badge/Docker-333?style=flat-square&logo=docker&logoColor=0db7ed)
+![Nmap](https://img.shields.io/badge/Nmap-333?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![Nessus](https://img.shields.io/badge/Nessus-333?style=flat-square&logo=tenable&logoColor=00a0de)
+![Metasploit](https://img.shields.io/badge/Metasploit-333?style=flat-square&logo=linux&logoColor=ffffff)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-333?style=flat-square&logo=burpsuite&logoColor=ff6633)
+![Git](https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=f05032)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-333?style=flat-square&logo=virtualbox&logoColor=1f79c6)
+
+- **Lenguajes**: Python, JavaScript, C#, Java  
+- **Frameworks**: Django, Flask, Bootstrap  
+- **Bases de datos**: MySQL, MariaDB  
+- **Ciberseguridad**: Nmap, Nessus, Metasploit, Burp Suite, Docker  
+- **Otros**: Git, GitHub, VirtualBox
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/trophy.svg" width="20" style="vertical-align:middle;fill:#00ff88;"/> Proyectos destacados
+## Proyectos destacados
 
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/terminal.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> Laboratorio de Hacking Ético — Descubrimiento y explotación de host
+### Laboratorio de Hacking Ético — Descubrimiento y explotación de host
 Simulación de un pentest en un entorno controlado, siguiendo fases de reconocimiento, escaneo, análisis de vulnerabilidades, explotación y escalada de privilegios.  
 **Tecnologías y herramientas**: Kali Linux, Nmap, Nessus Essentials, Metasploit Framework, Docker, Python.  
 [Ver proyecto](https://github.com/IvanEFibiger/LaboratorioHackingEtico/)
 
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/layout-text-window.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> Dashboard de Gestión
+### Dashboard de Gestión
 Aplicación web para gestión comercial con autenticación de usuarios, gestión de clientes, productos, servicios y estadísticas.  
 **Tecnologías y herramientas**: Flask, MariaDB, HTML, CSS, Bootstrap, JavaScript.  
 [Ver proyecto](https://github.com/IvanEFibiger/DashboardProyectoInformatico)
 
-### <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/bar-chart.svg" width="18" style="vertical-align:middle;fill:#00ff88;"/> Proyectos de Big Data y Machine Learning
+### Proyectos de Big Data y Machine Learning
 Conjunto de proyectos de análisis de datos y modelos de Machine Learning.  
 **Tecnologías y herramientas**: Python, Numpy, Pandas, Scikit-learn, Seaborn.  
 [Ver proyecto](https://github.com/IvanEFibiger/BDyML)
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/mortarboard.svg" width="20" style="vertical-align:middle;fill:#00ff88;"/> Actualmente aprendiendo
+## Actualmente aprendiendo
 - Pentesting en entornos Linux y Windows
 - Explotación y mitigación de vulnerabilidades web y de red
 - Automatización de pruebas de seguridad con Python
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/linkedin.svg" width="20" style="vertical-align:middle;fill:#00ff88;"/> Contacto
+## Contacto
 - **LinkedIn**: [https://www.linkedin.com/in/ivan-fibiger/](https://www.linkedin.com/in/ivan-fibiger/)
