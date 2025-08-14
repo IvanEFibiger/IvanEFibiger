@@ -1,41 +1,49 @@
-# 👋 Hola mundo, soy Ivan!
+# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" width="28" style="vertical-align:middle;"/> Iván Fibiger — Programador orientado a Ciberseguridad
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ivan-fibiger/)
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="22" style="vertical-align:middle;"/> Sobre mí
+Soy Técnico Universitario en Tecnologías de Programación con base en desarrollo backend y actualmente enfocado en ciberseguridad.  
+Mi objetivo es integrar la programación con la seguridad informática para identificar, explotar y mitigar vulnerabilidades, siguiendo metodologías profesionales de pruebas de penetración y análisis de seguridad.
 
+Cuento con experiencia en Python, Django, Flask, JavaScript, HTML, CSS, MySQL y manejo de herramientas de auditoría y análisis como Nmap, Nessus, Metasploit Framework y Docker.  
+Busco aplicar mis habilidades en entornos donde la seguridad y la calidad del software sean prioritarias.
 
+---
 
-Soy **Técnico Universitario en Tecnologías de Programación** con una pasión por crear soluciones tecnológicas que marquen la diferencia. Aquí encontrarás algunos de mis proyectos, contribuciones y lo que estoy aprendiendo actualmente.
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tools.svg" width="22" style="vertical-align:middle;"/> Tecnologías y herramientas
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="18" style="vertical-align:middle;"/> **Lenguajes**: Python, JavaScript, C#, Java  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/django.svg" width="18" style="vertical-align:middle;"/> **Frameworks**: Django, Flask, Bootstrap  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mysql.svg" width="18" style="vertical-align:middle;"/> **Bases de datos**: MySQL, MariaDB  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kalilinux.svg" width="18" style="vertical-align:middle;"/> **Ciberseguridad**: Nmap, Nessus, Metasploit, Burp Suite, Docker  
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" width="18" style="vertical-align:middle;"/> **Otros**: Git, GitHub, VirtualBox  
 
-## 🚀 Tecnologías & Herramientas
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/star.svg" width="22" style="vertical-align:middle;"/> Proyectos destacados
 
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linux.svg" width="18" style="vertical-align:middle;"/> Laboratorio de Hacking Ético — Descubrimiento y explotación de host
+Simulación de un pentest en un entorno controlado, siguiendo fases de reconocimiento, escaneo, análisis de vulnerabilidades, explotación y escalada de privilegios.  
+**Tecnologías y herramientas**: Kali Linux, Nmap, Nessus Essentials, Metasploit Framework, Docker, Python.  
+[Ver proyecto](https://github.com/IvanEFibiger/LaboratorioHackingEtico/)
 
-## 🧑‍💻 Proyectos Destacados
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flask.svg" width="18" style="vertical-align:middle;"/> Dashboard de Gestión
+Aplicación web para gestión comercial con autenticación de usuarios, gestión de clientes, productos, servicios y estadísticas.  
+**Tecnologías y herramientas**: Flask, MariaDB, HTML, CSS, Bootstrap, JavaScript.  
+[Ver proyecto](https://github.com/IvanEFibiger/DashboardProyectoInformatico)
 
-### [🔗 Dashboard de Gestión](https://github.com/IvanEFibiger/DashboardProyectoInformatico/)
-Proyecto de aplicación web para gestión comercial. Backend en Flask, BD desarrollada en MariaDB y Frontend utilizando HTML, CSS, Bootstrap y JS. En el mismo se cuenta con login de usuario, alta, baja y modificación de clientes, productos y servicios y ordenes de compra y facturación, control de stock y estadísticas de ventas.
+### <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="18" style="vertical-align:middle;"/> Proyectos de Big Data y Machine Learning
+Conjunto de proyectos de análisis de datos y modelos de Machine Learning.  
+**Tecnologías y herramientas**: Python, Numpy, Pandas, Scikit-learn, Seaborn.  
+[Ver proyecto](https://github.com/IvanEFibiger/BDyML)
 
-### [🔗 Proyectos de Big Data & Machine Learning](https://github.com/IvanEFibiger/BDyML)
-Proyectos universitarios realizados en Python, con librerías como Numpy, Pandas, Seaborn y scikit-learn, entre otras. Análisis exploratorio de Datos, Clustering, distintos algoritmos de Machine Learning.
+---
 
-### [🔗 Newspaper-Periodico digital](https://github.com/IvanEFibiger/Newspaper)
-Periodico digital. Plataforma web donde los usuarios pueden acceder a artículos de noticias, dejando comentarios y participando activamente. El proyecto está diseñado con diferentes roles de usuarios, permitiendo una gestión organizada del contenido y el acceso. Backend Django.
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gradle.svg" width="22" style="vertical-align:middle;"/> Actualmente aprendiendo
+- Pentesting en entornos Linux y Windows
+- Explotación y mitigación de vulnerabilidades web y de red
+- Automatización de pruebas de seguridad con Python
 
-### [🔗 Api Recetas de Cocina](https://github.com/IvanEFibiger/API_COCINA)
-API RESTful desarrollada en Flask que permite gestionar recetas, incluyendo su creación, actualización, eliminación y búsqueda.
+---
 
-## 🌱 Actualmente aprendiendo
+## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="22" style="vertical-align:middle;"/> Contacto
+- **LinkedIn**: [https://www.linkedin.com/in/ivan-fibiger/](https://www.linkedin.com/in/ivan-fibiger/)
 
-Actualmente sigo capacitándome en el rol de backend, perfeccionando mis skills en Python y sus frameworks.
-
-## 📫 Conectemos
-
-- [LinkedIn](https://www.linkedin.com/in/ivan-fibiger/)
