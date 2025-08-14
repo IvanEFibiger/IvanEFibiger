@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" width="28" style="vertical-align:middle; color=white"/> Iván Fibiger — Programador orientado a Ciberseguridad
+# <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecloud.svg" width="28" style="vertical-align:middle; color=white;"/> Iván Fibiger — Programador orientado a Ciberseguridad
 
 ## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aboutdotme.svg" width="22" style="vertical-align:middle;"/> Sobre mí
 Soy Técnico Universitario en Tecnologías de Programación con base en desarrollo backend y actualmente enfocado en ciberseguridad.  
